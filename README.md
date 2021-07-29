@@ -1,2 +1,2 @@
 # AirPlayer
-A device which will mimic the notes of a piano yet small enough to be adorned on your hand
+This project is a device that will mimic the notes of a piano yet small enough to be adorned on your hand like a glove. We engineered the device using the Arduino UNO, flex sensors and a rubber glove. The device was programmed by me to play specific notes when the flex sensors are triggered. It would be triggered only if it is bent beyond a certain threshold value which we decided upon by trial and error method.
